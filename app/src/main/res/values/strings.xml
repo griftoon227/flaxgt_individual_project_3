@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">flaxgt_individual_project_3</string>
+    <string name="author">By: Griffin Flaxman</string>
+    <string name="registration_btn_text">Registration</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="parent_account_text">Parent Account</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="email_text">Email</string>
+    <string name="email_text_hint">example@example.com</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="child_account_text">Child Account</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="toggle_account_cb_text">Toggle Account -</string>
+    <string name="choose_a_level_text">Choose A Level</string>
+    <string name="easy_text">Easy</string>
+    <string name="hard_text">Hard</string>
+    <string name="start_btn_text">Start</string>
+    <string name="go_back_btn_text">Go Back</string>
+    <string name="child_stats_title_text">Child Stats -</string>
+    <string name="child_stats_complete_text">Complete</string>
+    <string name="child_stats_incomplete_text">Incomplete</string>
+</resources>
